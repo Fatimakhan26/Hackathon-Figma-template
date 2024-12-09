@@ -6,7 +6,10 @@ import Arrival from "./component/Arrival";
 import TopS from "./component/Top-selling";
 import Style from "./component/Style";
 import Customer from "./component/Customer";
-import Footer from "./layout/Footer";
+// import Footer from "./layout/Footer";
+
+import Footer from "./layout/T-footer";
+import FooterB from "./layout/Footer";
 
 
 export default function Home() {
@@ -19,7 +22,9 @@ export default function Home() {
       <TopS/>
       <Style/>
       <Customer/>
+   
       <Footer/>
+      <FooterB/>
       
     </div>
   );
