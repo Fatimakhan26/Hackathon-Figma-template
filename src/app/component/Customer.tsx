@@ -59,7 +59,7 @@ const Customer = () => {
     <div>
       {/* Title and arrows section */}
       <div className="flex flex-col sm:flex-row sm:justify-between items-center px-4 mt-5">
-        <h1 className="text-4xl font-extrabold text-center sm:text-left ml-96 p-4 sm:p-0">
+        <h1 className="text-4xl font-extrabold text-center sm:text-left lg:ml-96 p-4 sm:p-0">
           OUR HAPPY CUSTOMERS
         </h1>
         <div className="flex gap-5 items-center mt-4 sm:mt-0">

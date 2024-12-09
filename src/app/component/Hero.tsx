@@ -92,11 +92,11 @@ const Hero = () => {
       </div>
 
       {/* Hero Text Content */}
-      <div className="absolute bottom-10 left-5 md:bottom-52 md:left-8 text-left">
+      <div className="absolute bottom-10 left-5 md:bottom-52 md:left-8 text-left sm:bottom-52 sm:left-4 sm:mr-28 sm:ml-2">
         <h1 className="font-extrabold text-3xl md:text-5xl lg:text-7xl leading-tight text-black max-w-[90%] md:max-w-[60%]">
           FIND CLOTHES THAT MATCH YOUR STYLE
         </h1>
-        <p className="text-gray-500 mt-4 text-sm md:text-base lg:text-lg max-w-[90%] md:max-w-[60%]">
+        <p className="text-gray-500 mt-4 text-sm md:text-base sm:mr-48 lg:text-lg max-w-[90%] md:max-w-[60%]">
           Browse through our diverse range of meticulously crafted garments,
           designed to bring out your individuality and cater to your sense of
           style.
